@@ -9,7 +9,7 @@ Curated list of digital pathology papers.
 # Contents
 <!-- - [Pathology AI](#pathology) -->
 - [Papers](#papers)
-  - [CVPR 2023 [10]](#cvpr-2023)
+  - [CVPR 2023](#cvpr-2023): 10
 
 - [Datasets](#datasets)
   <!-- - [Abdomen](#abdomen) -->
