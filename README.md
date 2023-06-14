@@ -9,7 +9,7 @@ Curated list of digital pathology papers.
 # Contents
 <!-- - [Pathology AI](#pathology) -->
 - [Papers](#papers)
-  - [CVPR 2023](#cvpr-2023)
+  - [CVPR 2023 [10]](#cvpr-2023)
 
 - [Datasets](#datasets)
   <!-- - [Abdomen](#abdomen) -->
@@ -19,7 +19,7 @@ Curated list of digital pathology papers.
 ## CVPR 2023
 
 **Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification** \
-*Honglin Li1, Chenglu Zhu, Yunlong Zhang, Yuxuan Sun, Zhongyi Shui, Wenwei Kuang, Sunyi Zheng, Lin Yang** \
+*Honglin Li, Chenglu Zhu, Yunlong Zhang, Yuxuan Sun, Zhongyi Shui, Wenwei Kuang, Sunyi Zheng, Lin Yang** \
 [Jun, 2023] [CVPR, 2023] \
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Task-Specific_Fine-Tuning_via_Variational_Information_Bottleneck_for_Weakly-Supervised_Pathology_Whole_CVPR_2023_paper.pdf)] 
 
