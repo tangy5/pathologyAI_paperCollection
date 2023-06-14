@@ -7,14 +7,12 @@ Curated list of digital pathology papers.
 
 
 # Contents
-- [Pathology AI](#pathology)
+<!-- - [Pathology AI](#pathology) -->
 - [Papers](#papers)
-  - [CVPR 2023](#CVPR 2023)
+  - [CVPR 2023](#cvpr-2023)
 
 - [Datasets](#datasets)
   <!-- - [Abdomen](#abdomen) -->
-
-
 
 # Papers
 
@@ -43,7 +41,7 @@ Curated list of digital pathology papers.
 **OCELOT: Overlapped Cell on Tissue Dataset for Histopathology** \
 *Jeongun Ryu, Aaron Valero Puche, JaeWoong Shin, Seonwook Park, Biagio Brattoli, Jinhee Lee* \
 [Jun, 2023] [CVPR, 2023] \
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_RankMix_Data_Augmentation_for_Weakly_Supervised_Learning_of_Classifying_Whole_CVPR_2023_paper.pdf)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ryu_OCELOT_Overlapped_Cell_on_Tissue_Dataset_for_Histopathology_CVPR_2023_paper.pdf)]
 
 **Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model** \
 *Hongrun Zhang, Liam Burrows, Yanda Meng, Declan Sculthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng* \
