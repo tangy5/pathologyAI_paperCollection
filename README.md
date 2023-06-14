@@ -38,11 +38,6 @@ Curated list of digital pathology papers.
 [Jun, 2023] [CVPR, 2023] \
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_RankMix_Data_Augmentation_for_Weakly_Supervised_Learning_of_Classifying_Whole_CVPR_2023_paper.pdf)] 
 
-**OCELOT: Overlapped Cell on Tissue Dataset for Histopathology** \
-*Jeongun Ryu, Aaron Valero Puche, JaeWoong Shin, Seonwook Park, Biagio Brattoli, Jinhee Lee* \
-[Jun, 2023] [CVPR, 2023] \
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ryu_OCELOT_Overlapped_Cell_on_Tissue_Dataset_for_Histopathology_CVPR_2023_paper.pdf)]
-
 **Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model** \
 *Hongrun Zhang, Liam Burrows, Yanda Meng, Declan Sculthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng* \
 [Jun, 2023] [CVPR, 2023] \
@@ -53,11 +48,6 @@ Curated list of digital pathology papers.
 [Jun, 2023] [CVPR, 2023] \
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.pdf)]
 
-**Benchmarking Self-Supervised Learning on Diverse Pathology Datasets** \
-*Mingu Kang, Heon Song, Seonwook Park, Donggeun Yoo, Sérgio Pereira* \
-[Jun, 2023] [CVPR, 2023] \
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Benchmarking_Self-Supervised_Learning_on_Diverse_Pathology_Datasets_CVPR_2023_paper.pdf)]
-
 **Bi-directional Feature Fusion Generative Adversarial Network for Ultra-high Resolution Pathological Image Virtual Re-staining** \
 *Kexin Sun, Zhineng Chen, Gongwei Wang, Jun Liu, Xiongjun Ye, Yu-Gang Jiang* \
 [Jun, 2023] [CVPR, 2023] \
@@ -67,6 +57,16 @@ Curated list of digital pathology papers.
 *Shahira Abousamra, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, Chao Chen* \
 [Jun, 2023] [CVPR, 2023] \
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Abousamra_Topology-Guided_Multi-Class_Cell_Context_Generation_for_Digital_Pathology_CVPR_2023_paper.pdf)]
+
+**OCELOT: Overlapped Cell on Tissue Dataset for Histopathology** \
+*Jeongun Ryu, Aaron Valero Puche, JaeWoong Shin, Seonwook Park, Biagio Brattoli, Jinhee Lee* \
+[Jun, 2023] [CVPR, 2023] \
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ryu_OCELOT_Overlapped_Cell_on_Tissue_Dataset_for_Histopathology_CVPR_2023_paper.pdf)]
+
+**Benchmarking Self-Supervised Learning on Diverse Pathology Datasets** \
+*Mingu Kang, Heon Song, Seonwook Park, Donggeun Yoo, Sérgio Pereira* \
+[Jun, 2023] [CVPR, 2023] \
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Benchmarking_Self-Supervised_Learning_on_Diverse_Pathology_Datasets_CVPR_2023_paper.pdf)]
 
 ## Datasets
 
